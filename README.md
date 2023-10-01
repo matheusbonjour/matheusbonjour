@@ -1,5 +1,5 @@
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusbonjour&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusbonjour&show_icons=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=matheusbonjour)](https://git.io/streak-stats)
 
