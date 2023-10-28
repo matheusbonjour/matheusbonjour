@@ -7,6 +7,13 @@
 
 🔍 **Research & Experience:**
 
-- 🌐 Engaged in **numerical modeling** during undergraduate studies, focusing on simulating the physical processes of the ocean and atmosphere.
+- 🌐 Studied **numerical modeling** during undergraduate studies, focusing on simulating the physical processes of the ocean and atmosphere.
   
-- 🤖 Deeply involved in using **Machine Learning** for my master's research. 
+- 🔍 Engaged in **machine learning** and **data analysis** techniques applied to the meteocean data during my master's research.
+
+- 🧠 Currently diving into the study of **neural networks**.
+
+- 🖥️ In my ongoing work, I'm focusing on developing a hybrid model which combines primitive equations models and AI models.
+
+🔗 **Connect:**
+- [LinkedIn](https://www.linkedin.com/in/matheus-b-65535997/)
