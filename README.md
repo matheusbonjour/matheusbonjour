@@ -2,8 +2,8 @@
 
 
 🌊 **Background:**
-- 🎓 Bachelor's degree in **Oceanography** at **UFES** - Vitória - Brasil.
-- 📖 Master of Science in **Meteorology** at **IAG-USP** - São Paulo - Brasil.
+- 🎓 Bachelor's degree in **Oceanography** at **UFES** 
+- 📖 Master of Science in **Meteorology** at **IAG-USP** 
 
 🔍 **Research & Experience:**
 
