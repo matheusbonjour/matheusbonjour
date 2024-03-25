@@ -3,7 +3,7 @@
 
 🌊 **Background:**
 - 🎓 Bachelor's degree in **Oceanography**.
-- 📖 Currently completing a Master's degree in **Meteorology** at **IAG-USP**.
+- 📖 M. Sc. **Meteorology** at **IAG-USP**.
 
 🔍 **Research & Experience:**
 
